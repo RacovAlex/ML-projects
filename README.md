@@ -1,2 +1,2 @@
 # ML-projects
-My projects which I was making while studying
+My machine learning projects which I was making while studying
